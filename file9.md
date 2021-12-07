@@ -21,3 +21,4 @@ C. Compilation error
 D.it will print true
 
 
+D is the answer
