@@ -21,4 +21,6 @@ public class {
 20 13
 33 
 
-How many planets are there on the earth?
+# How many planets are there on the earth?
+
+Earth has exactly zero planets
