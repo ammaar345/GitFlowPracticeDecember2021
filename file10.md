@@ -23,4 +23,4 @@ public class {
 
 # How many planets are there on the earth?
 
-Earth has exactly zero planets
+Earth has exactly zero planets.
