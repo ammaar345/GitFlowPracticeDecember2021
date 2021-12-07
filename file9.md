@@ -20,4 +20,4 @@ C. Compilation error
 
 D.it will print true
 
-
+D is the final answer
