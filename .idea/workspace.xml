@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bb0844b-72f3-4c29-a9e2-fe396b4b9bc6" name="Changes" comment="" />
+    <list default="true" id="6bb0844b-72f3-4c29-a9e2-fe396b4b9bc6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/file2.md" beforeDir="false" afterPath="$PROJECT_DIR$/file2.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
