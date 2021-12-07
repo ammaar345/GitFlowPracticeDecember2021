@@ -11,4 +11,7 @@ i) Variables declared inside a method are called memeber variables.
 
 ii) Instance variables are initialized to their default values.
 
-iii) The variable "x" in the declaration "int x = 10" should be an instance variable.
+iii) The variable "x" in the declaration "int x = 10" should be an instance variable
+.
+i ii is true.
+
